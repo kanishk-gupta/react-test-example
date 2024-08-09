@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Theme test cases should take a snapshot 1`] = `
+<DocumentFragment>
+  <button>
+    Current theme: light
+  </button>
+</DocumentFragment>
+`;
